@@ -49,3 +49,5 @@ Implementing user authentication
 Enhancing UI with chat bubbles and emojis
 
 ## OUTPUT : 
+
+![Image](https://github.com/user-attachments/assets/c73c0f29-da6f-4799-bd3f-8d135ab27e0c)
